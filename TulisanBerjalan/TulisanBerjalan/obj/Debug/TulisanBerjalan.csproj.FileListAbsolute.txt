@@ -1,0 +1,10 @@
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csprojAssemblyReference.cache
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.frmTulisanBerjalan.resources
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+E:\22.11.4814\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb
